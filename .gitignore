@@ -1,0 +1,8 @@
+node_modules/
+.env
+dist/
+build/
+coverage/
+*.log
+backend/.wwebjs_auth/
+backend/.wwebjs_cache/
